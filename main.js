@@ -12,6 +12,8 @@ const mixedMessage = {
     }
 }
 
+// Loop to return i mixed messages
+
 for (i = 0; i < 1; i++) {
     mixedMessage.returnMixedMessage()
 }
